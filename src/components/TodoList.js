@@ -1,6 +1,6 @@
 import React from 'react';
-import style from './TodoList.css'; // stylowanie
-import Todo from './Todo'; // importowanie listy + przycisku usuwającego item
+import style from './TodoList.css';
+import Todo from './Todo';
 
 const TodoList = props => {
 // tworzenie poszczególnych elementów listy
